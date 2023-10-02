@@ -19,6 +19,10 @@
     .venv\Scripts\Activate 
    ```
 
+## Documentation
+- Github: https://github.com/NickMol/Django-Deploy-on-Azure
+- Youtube: https://www.youtube.com/watch?v=L5oCPVr7l4c&ab_channel=CBIAnalytics
+
 ## install requirements
 ```
 pip install -r requirements.txt
